@@ -24,7 +24,9 @@ None so far , any extra information, imporvment , recommendation and insights ar
 
 ## Support and contact details
 incase of any explanation ,question ,or you run into any issues or have ideas or concerns. You can contact
-
+ 
+ 1. uyamanaali@hotmail.com
+ 2. electriccar@gmail.com
 
 make a contribution to the code
 
