@@ -1,7 +1,18 @@
 # Data cleaning and Analysis for Electric Car Sharing Service Company
 ### {5 April 2018}
 ## Description
-{Analysing data to examine electric car sharing services to process stations data in order to understand electric car usage over time }
+Analysing data to examine electric car sharing services to process stations data in order to understand electric car usage over time.below are some question that are used for the analysis
+Research Question
+
+1. Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of      Paris over the month of April 2018.
+2. What is the most popular hour for returning cars?
+3. What station is the most popular?
+4. At the most popular picking hour?
+5. What postal code is the most popular for picking up Blue cars? Does the most popular station belong to that  postal code?
+Overall?
+6. At the most popular picking hour?
+7. Do the results change if you consider Utilib and Utilib 1.4 instead of Blue cars? 
+
 ## Setup/Installation Requirements
 python 3.8.0 with the following libiraries
 1. datetime
