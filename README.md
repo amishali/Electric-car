@@ -1,6 +1,6 @@
 # Data cleaning and Analysis for Electric Car Sharing Service Company
 ### {5 April 2018}
-## Description
+## Descrption
 Analysing data to examine electric car sharing services to process stations data in order to understand electric car usage over time.below are some question that are used for the analysis
 Research Question
 
@@ -26,7 +26,16 @@ python 3.8.0 with the following libiraries
 The data files that you will need for this project will be as follows: 
 1. [http://bit.ly/autolib_dataset (Links to an external site.)]
 
+### Approach
+The CRISP-DM will be used in this project to help come up with the objectives and give a step by step process of how best to deploy their resource inorder understand electric car usage over time 
 
+1. Business understanding 
+2. Data understanding
+3. Data Preparation 
+4. Analysis 
+5. Recommendation 
+6. Evaluation
+ 
 ## Known Bugs
 None so far , any extra information, imporvment , recommendation and insights are encouraged
 
