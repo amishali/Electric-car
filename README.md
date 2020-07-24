@@ -37,7 +37,7 @@ The CRISP-DM will be used in this project to help come up with the objectives an
 6. Evaluation
  
 ## Known Bugs
-None so far , any extra information, imporvment , recommendation and insights are encouraged
+None so far , any extra information, improvment  , recommendation and insights are encouraged
 
 ## Technologies Used
 1. python
